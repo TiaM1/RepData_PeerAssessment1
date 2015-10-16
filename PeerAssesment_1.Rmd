@@ -7,8 +7,7 @@ Download the data
 
 Load the data
 
-```{r}
-setwd("C:/Users/Tia/Desktop/Tia/Coursera/Course 5/repdata-data-activity")
+```{r} 
 data <- read.csv("activity.csv")
 ```
 
